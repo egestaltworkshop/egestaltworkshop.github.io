@@ -1,0 +1,71 @@
+.footer 
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #000000;
+}
+
+.main
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color:#000000;
+	font-size:12px; 
+}
+.main h2 
+{
+  font-family: Arial, Verdana, Helvetica, sans-serif;
+  color:#660099;
+  font-size:20px;
+  font-weight:bold;
+}
+
+.main h3 
+{ 
+	font-family: Tahoma, Verdana, Helvetica, sans-serif;
+	color:#330066;
+	font-size:18px;
+    font-weight:bold;
+}
+
+.main h5 
+{ 
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	color:#330066;
+	font-size:14px;
+}
+
+.main a:link {color:#0000CC; font-weight:bold; text-decoration:none;}	
+.main a:active {color:#0066FF; font-weight:bold; text-decoration:underline;}	
+.main a:visited {color:#0000CC; font-weight:bold; text-decoration:none;}	
+.main a:hover {color: #0066FF; font-weight:bold; text-decoration:underline;}
+
+.subnav
+{
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	color:#CCCCCC;
+	font-size:10px;
+}
+
+.subnav a:link {color:#DDDDDD; font-weight:bold; text-decoration:none;}	
+.subnav a:active {color:#FFFFFF; font-weight:bold; text-decoration:underline;}	
+.subnav a:visited {color:#DDDDDD; font-weight:bold; text-decoration:none;}	
+.subnav a:hover {color: #FFFFFF; font-weight:bold; text-decoration:underline;}
+
+
+.caption {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	left: 3px;
+	top: 3px;
+	right: 3px;
+	bottom: 3px;
+}
+
+.caption {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	left: 3px;
+	top: 3px;
+	right: 3px;
+	bottom: 3px;
+}
