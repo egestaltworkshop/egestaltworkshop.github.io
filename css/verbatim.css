@@ -55,7 +55,20 @@
     #table-of-contents:hover #text-table-of-contents {
       display: block;
       padding: 0.5em;
+      clear: left;
       margin-top: -1.5em; }
+    pre.src{position: static;}
+    code{font-size: 1.1rem;
+         border: 1px solid #ddd;
+         background: #EEEEEE;
+         -webkit-border-radius: 0.4em;
+         -moz-border-radius: 0.4em;
+         -ms-border-radius: 0.4em;
+         -o-border-radius: 0.4em;
+         border-radius: 0.4em;
+         font-weight: normal;
+         padding: 0 0.2em;}
+    pre.src {background-color: #E5E5E5;}
 
   /* #license { */
   /*   padding: .3em; */
