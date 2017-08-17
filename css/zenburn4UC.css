@@ -1,13 +1,15 @@
 @media all
 {
   @import url(/worg/style/zenburn-emacs.css);
+  @import url('https://fonts.googleapis.com/css?family=Open+Sans');
   body {
     color: #dcdccc;
     background-color: #3f3f3f;
-    font-family: "Helvetica Neue", "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, sans-serif;
+    font-family: "Open Sans", "Helvetica Neue", "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, sans-serif;
     /* font:0.9em serif;*/
-    max-width: 65%;
+    max-width: 80%;
     margin: auto;
+	font-size: 100%;
     background-image: url(images/paramecium-logo2.jpg);
     background-repeat: no-repeat;
     }
