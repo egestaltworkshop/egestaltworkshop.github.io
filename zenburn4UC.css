@@ -27,8 +27,8 @@
 
   #org-div-home-and-up{
       position: fixed;
-      right: 0;
-      top: 5em;
+      right: 5em;
+      top: 15em;
   }    
 
   /* TOC inspired by http://jashkenas.github.com/coffee-script */
