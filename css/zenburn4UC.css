@@ -1,16 +1,14 @@
 @media all
 {
   @import url(/worg/style/zenburn-emacs.css);
-  @import url('https://fonts.googleapis.com/css?family=Open+Sans');
   body {
     color: #dcdccc;
     background-color: #3f3f3f;
-    font-family: "Open Sans", "Helvetica Neue", "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, sans-serif;
+    font-family: "Helvetica Neue", "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, sans-serif;
     /* font:0.9em serif;*/
-    max-width: 80%;
+    max-width: 65%;
     margin: auto;
-	font-size: 100%;
-    background-image: url(images/paramecium-logo2.jpg);
+    background-image: url(UC-images/paramecium-logo2.jpg);
     background-repeat: no-repeat;
     }
     body #content {
@@ -26,6 +24,12 @@
       margin-left: 120px;
       color: #F6FC5E;
     }
+
+  #org-div-home-and-up{
+      position: fixed;
+      right: 5em;
+      top: 15em;
+  }    
 
   /* TOC inspired by http://jashkenas.github.com/coffee-script */
   #table-of-contents {
