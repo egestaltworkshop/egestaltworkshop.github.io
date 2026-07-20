@@ -483,7 +483,7 @@ body.reading-mode .content {
   display: grid;
   gap: 0.25rem;
   max-height: 22rem;
-  padding-left: 1.2rem;
+  padding-left: 1.4rem;
   margin: 0.75rem 0 0;
   overflow: auto;
 }
